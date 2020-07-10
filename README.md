@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Yusuf!
+
+I'm a front-end developer. I love JavaScript and also interested in developing games with Unity.
 
 <!--
 **yusufdoru/yusufdoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
